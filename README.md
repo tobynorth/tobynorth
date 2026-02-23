@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi, I'm Toby!
+
+Full-stack and platform/devops engineer across a variety of business domains and technologies, longtime code review enthusiast, one-time board game designer (ongoing), and dabbler in esolangs that [give](https://esolangs.org/wiki/Piet) me [joy](https://esolangs.org/wiki/Shakespeare). Also, dad. :heart:
+
+Please [email](mailto:toby.ross.north@gmail.com) me if you'd like to learn more about my work and/or work together!
 
 <!--
 **tobynorth/tobynorth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
